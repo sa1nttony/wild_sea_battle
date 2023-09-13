@@ -43,7 +43,10 @@ single player mode and the ability to choose the size of the playing field.
 It won't take much to launch
 The work was tested on Python 3.10 and higher, but it should work on earlier versions as well.
 You will also need to install the colorama package via pip.
-In the end, you may just run code in any IDE 
+```shh
+   pip3 install colorama
+```
+In the end, you may just run `sea_battle.py` in any IDE 
 
 
 <!-- CONTACT -->
